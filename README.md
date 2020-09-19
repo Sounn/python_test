@@ -20,7 +20,7 @@ $ pip install Django==3.0
 $ pip install django-bootstrap4
 ```
 
-# 開発フォルダの作成
+#開発フォルダの作成
 ```
 cd ..
 git clone git@github.com:Sounn/python_test.git
