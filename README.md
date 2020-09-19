@@ -34,4 +34,14 @@ python manage.py runserver
 $ python manage.py runserver
 ```
 http://localhost:8000
+http://localhost:8000/app_folder/top_page
 
+#管理者ユーザー
+```
+$ python manage.py createsuperuser
+```
+1.ユーザ名
+2.メールアドレス
+3.パスワード（１回目）
+4.パスワード（確認用）
+localhost:8000/admin
