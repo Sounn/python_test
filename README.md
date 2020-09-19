@@ -1,7 +1,7 @@
 # python_test
 
-```
 #仮想環境を作る
+```
 $ python -m venv [仮想環境名]
 $ cd [仮想環境名]
 ```
@@ -45,3 +45,8 @@ $ python manage.py createsuperuser
 3.パスワード（１回目）<br>
 4.パスワード（確認用）<br>
 http://localhost:8000/admin
+
+#仮想環境の停止
+```
+$ deactivate
+```
