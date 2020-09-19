@@ -21,9 +21,17 @@ $ pip install django-bootstrap4
 ```
 
 # 開発フォルダの作成
+```
+cd ..
 git clone git@github.com:Sounn/python_test.git
 cd python_test
 python manage.py migrate
 python manage.py runserver
 ```
+
+#システムの起動
+```
+$ python manage.py runserver
+```
+http://localhost:8000
 
