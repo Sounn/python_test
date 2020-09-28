@@ -23,7 +23,12 @@ $ pip install django-bootstrap4
 #開発フォルダの作成
 ```
 cd ..
+
+win
+git clone https://github.com/Sounn/python_test.git
+mac
 git clone git@github.com:Sounn/python_test.git
+
 cd python_test
 python manage.py migrate
 python manage.py runserver
